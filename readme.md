@@ -9,7 +9,7 @@ Webpack Meowaurants [Check it out!](https://vhforbes.github.io/restaurantWebpack
 
 Here I've made a restaurant page with tabs in the page following this user histories:
 
-*1.*Start the project the same way you began the webpack tutorial project.
+*1.* Start the project the same way you began the webpack tutorial project.
 run npm init in your project directory to generate a package.json file.
 
 run npm install webpack webpack-cli --save-dev to install webpack to the node_modules directory of your project.
