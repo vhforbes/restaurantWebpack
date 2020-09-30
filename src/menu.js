@@ -32,8 +32,8 @@ const menu = (() => {
   }
 
   let fish = menuItem('Fish', 'https://freepngimg.com/thumb/fish/22717-2-real-fish-transparent-background.png',
-  'Deliciuous fish right from the aquarium', '5 treats')
-  let chicken = menuItem('Ckicken', 'https://www.kroger.com/product/images/xlarge/front/0004157310138',
+  'Delicious fish right from the aquarium', '5 treats')
+  let chicken = menuItem('Chicken', 'https://www.kroger.com/product/images/xlarge/front/0004157310138',
   'Owner stolen fried chicken', '4 treats')
   let meat = menuItem('Meat', 'https://www.pngpix.com/wp-content/uploads/2016/02/Meat-PNG-image.png',
   'A lovely raw meat. Just like our ancestors used to eat', '7 treats')
