@@ -3,7 +3,17 @@ const contact = (() => {
   contactDiv.className = 'tabContent'
   contactDiv.id = 'contactDiv'
 
-  contactDiv.textContent = 'Hey I`m the contact div'
+  const adress = document.createElement('p')
+  adress.textContent = 'Purring Street, red house roof.' 
+
+  const number = document.createElement('p')
+  number.innerHTML = 'Call us on: <br> Meow Pur Meow - Pur Pur Meow'
+
+
+  contactDiv.appendChild(adress)
+  contactDiv.appendChild(number)
+
+
 
   return contactDiv
 })

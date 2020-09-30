@@ -7,6 +7,7 @@ const home = (() => {
 
   let homeImage = () => {
     const element = document.createElement('img')
+    element.className = 'homeImage'
     element.src = 'https://i.pinimg.com/originals/69/48/09/6948092cacec242746b6c8cb2a9a632a.jpg'
     return element
   }
