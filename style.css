@@ -91,15 +91,10 @@ h1 {
   margin: 20px;
 }
 
-/* @media (min-width: 800px) {
+@media (min-width: 800px) {
   #content {
+    max-width: 600px;
     margin: auto;
   }
-
-  #background-img {
-    display: block;
-    position: relative; 
-    z-index: -1;
-  }
   
-} */
+}
